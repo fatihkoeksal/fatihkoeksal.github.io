@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Fatih Koeksal
 
-_Software engineer and journalist based in Berlin, Germany_ <br>
+_Fachinformatiker Systemintegration based in Düsseldorf, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:fthkxl@gmail.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/fatihkoeksal/) / [Twitter](https://twitter.com/fthkxl/) / [DEV](https://dev.to/fatihkoeksal)
 
 ## 👩🏼‍💻 Engineering Experience
 
